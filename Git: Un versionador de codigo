@@ -8,3 +8,5 @@ git add . => esto sirve para alistar nuestros cambios para ser comiteados
 git commit -m "mensaje" => esto sirve para crear un commit
 
 git push => subir nuestros cambios al repositorio
+
+git clone https://github.com/luis1701/tekne-2023-node-react.git => comando para clonar repositorio
